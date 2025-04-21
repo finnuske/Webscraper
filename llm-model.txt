@@ -1,0 +1,1 @@
+Large Language Model: "Ollama3.1" installed via ollama in command line
